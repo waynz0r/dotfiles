@@ -1,0 +1,20 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "0ffea89e-6209-4159-92d0-429702be214d"
+  core:
+    packagesWithKeymapsDisabled: []
+    themes: [
+      "one-dark-ui"
+      "base16-eighties-one-dark"
+    ]
+  editor:
+    fontFamily: "Inconsolata-dz for Powerline"
+    tabLength: 4
+  "exception-reporting":
+    userId: "c5d40336-5ba1-6610-5415-fb1a184dc42b"
+  "php-integrator-base": {}
+  "tool-bar":
+    position: "Left"
+  welcome:
+    showOnStartup: false
