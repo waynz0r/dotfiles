@@ -6,6 +6,7 @@
     disabledPackages: [
       "spell-check"
     ]
+    telemetryConsent: "no"
     themes: [
       "one-dark-ui"
       "base16-eighties-one-dark"
